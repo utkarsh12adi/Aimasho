@@ -37,6 +37,9 @@
 <p1>4. Run server using: npm run start:backend</p1><br>
 <p1>5. Run client using: npm run start:frontend</p1><br>
 
+<h1>Screenshots </h1>
+
+![Screenshot (1)](https://user-images.githubusercontent.com/69595881/234966179-99c15e05-0e5c-4fc9-83f2-e0c55ea42fcc.png)
 
 
 
