@@ -30,6 +30,14 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
+<h1>Steps to Run project</h1>
+<p1>1. Download or clone the project</p1>
+<p1>2. Go to source directory of project</p1>
+<p1>3. Install all dependency in client as well as server using command: npm i</p1>
+<p1>4. Run server using: npm run start:backend</p1>
+<p1>5. Run client using: npm run start:frontend</p1>
+
+
 
 
 
